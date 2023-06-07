@@ -1,0 +1,57 @@
+Traditional ml
+
+Linear regression
+Logistic regression
+K-Nearest Neighbor(KNN)
+Gaussian Naïve Bayes
+Random forest
+
+Time series 
+
+Simple Moving Average (SMA) with different weights
+Autoregressive Integrated Moving Average (ARIMA)
+Prophet
+
+Deep learning and Neural networks
+
+Simple Recurrent Neural Network (RNN)
+Convolutional Neural Network (CNN)
+Gated Recurrent Unit (GRU)
+Long Short-Term Memory (LSTM)
+Bidirectional LSTM (BiLSTM)
+Compound LSTM(For example: CNN-LSTM & CNN-BiLSTM)
+Dense layer Forecast
+
+
+
+
+
+COMPARISON OF DIFFERENT ALGORITHMS:
+
+INITIAL ALGORITHMS: 
+
+Neural Networks, 
+Linear Regression, 
+Simple Moving Averages
+(Weekly 
+and Monthly SMA), 
+Autoregressive Integrated Moving Average (ARIMA),  
+Random Forest, 
+Dense Forecast, 
+K-Nearest Neighbor(KNN)
+
+BEST PERFORMED ALGORITHM: Neural Networks
+
+Further comparison of different Neural Networks: 
+
+LSTMs, 
+RNN, 
+CNN, 
+GRU
+
+BEST PERFORMED Neural Network: LSTM
+
+Further comparison of LSTMs: 
+
+LSTM(with various layers and dropouts), 
+Bidirectional LSTM(with various layers and dropouts)
